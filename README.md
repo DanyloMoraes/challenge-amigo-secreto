@@ -4,6 +4,8 @@
 
 ![Static Badge](https://img.shields.io/badge/Status-Completo-green) ![Static Badge](https://img.shields.io/badge/Vers%C3%A3o-1.0-blue)
 
+![Badge da Alura - One Oracle Next Education](https://cdn1.gnarususercontent.com.br/6/409216/ff043987-239b-4661-bdb1-7f4ca6092c48.png)
+
 ## Índice
 
 * [Descrição do Projeto](#descrição-do-projeto)
