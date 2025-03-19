@@ -11,7 +11,6 @@
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
-* [Conclusão](#conclusao)
 
 ## Descrição do Projeto
 
